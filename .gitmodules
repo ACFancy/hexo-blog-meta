@@ -1,0 +1,3 @@
+[submodule "themes/fexo"]
+	path = themes/fexo
+	url = git@github.com:lenbo-ma/fexo.git
