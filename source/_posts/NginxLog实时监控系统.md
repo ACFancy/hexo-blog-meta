@@ -1,7 +1,7 @@
 title: "NginxLog实时监控系统总结"
 date: 2015-07-09 10:58:17
 tags: [lua,kafka,heka,nginx,监控]
-category: 运维开发
+category: 架构杂谈
 ---
 
 ### 背景
