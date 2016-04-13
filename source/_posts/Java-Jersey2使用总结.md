@@ -436,3 +436,13 @@ public class APIApplication extends ResourceConfig {
 
 本人在使用Jersey的过程中发现网上有关Jersey的中文资料并不多，因此将本期开发中的使用经验总结于此，便于同样对Jersey感兴趣的同仁参考。如果你也有Jersey的开发经验并且对Jersey拥有浓厚的兴趣，欢迎与我联系并一起探讨技术，愿共同进步！
 
+
+---
+
+微信扫描二维码，关注我。
+
+我会写一些是后端技术、前端工程、DevOps相关的文章，偶尔会有一些大数据相关，也会推荐一些好玩的东西。希望你会喜欢~
+
+![长按二维码关注我](http://ww4.sinaimg.cn/large/b196a42dgw1f2r0uqcno4j209k09kwef.jpg)
+
+一切，源于喜欢。

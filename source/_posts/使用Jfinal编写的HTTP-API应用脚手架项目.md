@@ -264,3 +264,13 @@ String token = TokenManager.getMe().generateToken(nowUser));
 ### 资源
 
 [现有的API接口文档](https://github.com/lenbo-ma/jfinal-api-scaffold/blob/master/doc/index.md)
+
+---
+
+微信扫描二维码，关注我。
+
+我会写一些是后端技术、前端工程、DevOps相关的文章，偶尔会有一些大数据相关，也会推荐一些好玩的东西。希望你会喜欢~
+
+![长按二维码关注我](http://ww4.sinaimg.cn/large/b196a42dgw1f2r0uqcno4j209k09kwef.jpg)
+
+一切，源于喜欢。
