@@ -1,6 +1,5 @@
 title: gso性能优化记录
 date: 2014-10-17 23:38:09
-tags: [gso]
 category: 开发
 description: 在gso上线后，使用了哪些优化的手段不断提升响应速度。
 ---

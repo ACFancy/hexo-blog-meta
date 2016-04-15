@@ -1,6 +1,5 @@
-title: cas服务端和应用端证书整合配置流程
+title: CAS 服务端和应用端证书整合配置流程
 date: 2015-01-09 23:14:09
-tags: [java,sso,cas]
 category: 开发
 ---
 

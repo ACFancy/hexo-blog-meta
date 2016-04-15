@@ -1,6 +1,5 @@
-title: 与Google验证码的斗争记录
+title: 与 Google 验证码的斗争记录
 date: 2014-12-27 10:00:38
-tags: [gso,google]
 category: 开发
 ---
 

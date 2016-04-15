@@ -1,6 +1,5 @@
 title: Java Jersey2使用总结
 date: 2014-10-17 23:34:51
-tags: [java]
 category: 开发
 ---
 

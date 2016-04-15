@@ -1,7 +1,6 @@
 title: HTTP API响应数据规范整理
 date: 2014-10-17 23:24:50
-tags: [规范]
-category: 开发
+category: 架构杂谈
 description: 本文档为本人对长期开发API接口所整理的经验总结，目的为规范服务器端API接口，便于服务器端与客户端代码重用。
 ---
 

@@ -1,6 +1,5 @@
 title: 自己动手写一个ioc工具
 date: 2015-01-02 17:00:33
-tags: [java]
 category: 开发
 description: IOC是面向对象编程中的一种设计原则，可以用来减低计算机代码之间的耦合度。本文介绍了如何使用Java编写一个简单的IOC工具。
 ---

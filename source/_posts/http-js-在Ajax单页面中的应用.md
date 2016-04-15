@@ -1,6 +1,5 @@
-title: http.js 在Ajax单页面中的应用
+title: 基于 jQuery Ajax 定制自己喜爱的 API
 date: 2014-10-17 23:37:55
-tags: [javascript]
 category: 开发
 ---
 

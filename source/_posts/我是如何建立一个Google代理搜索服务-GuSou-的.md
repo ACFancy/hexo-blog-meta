@@ -1,6 +1,5 @@
 title: 我是如何建立一个Google代理搜索服务(GuSou)的
 date: 2014-10-17 23:36:26
-tags: [NodeJs,gso]
 category: 开发
 description: GuSou是本人使用NodeJs编写的在线Google代理搜索服务，这篇文章介绍了原理和实现代码。
 ---

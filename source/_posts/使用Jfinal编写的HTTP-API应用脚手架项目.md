@@ -1,6 +1,5 @@
-title: 使用Jfinal编写的HTTP API应用脚手架项目
+title: 使用 Jfinal 编写的 HTTP API 应用脚手架项目
 date: 2015-02-21 13:27:22
-tags: [java,jfinal]
 category: 开发
 description: 为APP开发HTTP API应用的脚手架模板项目，使用Java编写。是我多次开发HTTP API应用的经验总结。其中包含了常用的模块，以及本人认为比较好的开发方式和规范。目前已做好了一些基础的东西(如配置，响应规范等)和公共的模块，主要应用于APP(Android,IOS,WebApp)接口快速开发。
 ---

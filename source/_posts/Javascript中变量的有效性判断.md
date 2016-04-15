@@ -1,6 +1,5 @@
-title: Javascript中变量的有效性判断
+title: JavaScript 中变量的有效性判断
 date: 2014-12-25 11:12:03
-tags: [javascript]
 category: 开发
 ---
 
